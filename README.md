@@ -1,6 +1,6 @@
 # SampleE2ETests
 
-This prohect is created to demosrate how is would test for the systems \
+This project is created to demosrate how is would test for the systems 
 
 https://crediference.com/ \
 https://coopprofiler.trailanalytics.com/
